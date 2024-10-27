@@ -1,4 +1,4 @@
-# Visual Studio Enterprise Project
+# Visual Studio Enterprise Projects
 
 ## Overview
 This repository hosts a project developed using **Visual Studio Enterprise**. It includes [brief description of your project and its purpose, such as tools, applications, or solutions designed in Visual Studio Enterprise].
