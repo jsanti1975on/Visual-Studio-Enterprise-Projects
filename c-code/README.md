@@ -40,7 +40,7 @@ This guide walks you through creating, compiling, and testing a Windows applicat
 ### Step 3: Prepare the USB for Transfer
 1. Verify that the file `CyberRangeFormWithConsole.c` is on the USB drive.
 2. Safely eject the USB drive from your Windows 10 machine.
-
+3. Transfer via simple http server on LAN coming.
 ---
 
 ### Step 4: Open Kali Linux VM
